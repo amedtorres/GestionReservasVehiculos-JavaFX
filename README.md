@@ -80,10 +80,10 @@ Esta sección describe el uso básico de la interfaz de la aplicación:
 
 1.  **Clonar el Repositorio:**
     ```bash
-    [https://github.com/amedtorres/GestionReservasVehiculos-JavaFX.git](https://github.com/amedtorres/GestionReservasVehiculos-JavaFX.git)
+    git clone https://github.com/amedtorres/GestionReservasVehiculos-JavaFX.git
     ```
-2.  **Abrir en IDE:** Abre la carpeta del proyecto directamente con un IDE como **IntelliJ IDEA** o **Eclipse** que soporte Maven. El IDE detectará automáticamente el `pom.xml` y descargará las dependencias de JavaFX.
-3.  **Ejecutar:** Ejecuta la clase principal (`Application`) que inicializa la aplicación.
+3.  **Abrir en IDE:** Abre la carpeta del proyecto directamente con un IDE como **IntelliJ IDEA** o **Eclipse** que soporte Maven. El IDE detectará automáticamente el `pom.xml` y descargará las dependencias de JavaFX.
+4.  **Ejecutar:** Ejecuta la clase principal (`Application`) que inicializa la aplicación.
 
 ---
 
