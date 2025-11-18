@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Resumen del Proyecto
+## Resumen del Proyecto
 
 Este proyecto es un **Simulador de Gestión de Reservas de Vehículos** desarrollado íntegramente con **JavaFX**. Su objetivo principal es demostrar la comprensión de la **Programación Orientada a Objetos (POO)**, el manejo de colecciones y la interacción entre la lógica del negocio (Java) y la interfaz de usuario (FXML).
 
@@ -14,7 +14,7 @@ La aplicación permite a un usuario **registrar** nuevas reservas, **calcular** 
 
 ---
 
-## ✨ Características y Funcionalidades
+## Características y Funcionalidades
 
 El sistema implementa las funcionalidades básicas de gestión (CRUD parcial) con foco en la usabilidad y la robustez de la entrada de datos:
 
@@ -51,7 +51,7 @@ Clase | Función Principal |
 | `ControladorLista.java` | **Controlador:** Gestiona la visualización, la búsqueda y la eliminación de reservas. |
 
 ---
-## 🚀 Guía de Funcionamiento para el Usuario
+## � Guía de Funcionamiento para el Usuario
 
 Esta sección describe el uso básico de la interfaz de la aplicación:
 
@@ -76,7 +76,7 @@ Esta sección describe el uso básico de la interfaz de la aplicación:
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+## Cómo Ejecutar el Proyecto
 
 1.  **Clonar el Repositorio:** Abre tu terminal, navega a la carpeta donde deseas guardar el proyecto y usa el siguente comando.
     ```bash
@@ -87,6 +87,6 @@ Esta sección describe el uso básico de la interfaz de la aplicación:
 
 ---
 
-## 🧑‍💻 Autor y Contexto
+## Autor y Contexto
 
 Desarrollado por **Amed Torres** como **proyecto estudiantil** para la asignatura **Desarrollo de Interfaces** en el ciclo de ***DAM***.
